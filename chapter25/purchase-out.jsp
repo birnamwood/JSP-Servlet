@@ -2,6 +2,5 @@
 <%@include file="../header.html" %>
 <%@include file="../chapter25/menu.jsp" %>
 
-ログアウトしました。
-
+購入手続きが完了しました。
 <%@include file="../footer.html" %>
